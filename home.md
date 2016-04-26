@@ -24,4 +24,9 @@ Generally, Pashmina is woven on a wrap of silk that adds strength and shine. Sil
 ---
 
 ## Image Library
-![](http://www.tetrade.com.np/images/pash14.jpg)
+![Image 1](http://www.tetrade.com.np/images/pash14.jpg)
+![Baby Pashmina](http://www.tetrade.com.np/images/baby-pashmina.png)
+![Our Showroom](http://www.tetrade.com.np/images/shop.jpg)
+![Our Showroom 2](http://www.tetrade.com.np/images/shop2.jpg)
+![Image 2](http://www.tetrade.com.np/images/shop3.jpg)
+![Image 3](http://www.tetrade.com.np/images/shop4.jpg)
