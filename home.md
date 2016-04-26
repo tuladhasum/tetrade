@@ -19,6 +19,7 @@ Generally, Pashmina is woven on a wrap of silk that adds strength and shine. Sil
 
 ---
 > Manufacturer & Exporter of Silk, Pashmina Shawl, Stole, Scarf etc.
+
 > Member of Handicraft Association of Nepal
 
 ---
