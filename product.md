@@ -75,11 +75,7 @@ Note:
 
 Sizes
 __Shawl__ - 36"/80" or 90/200cm
-
 __Big Stole__ - 28"/78" or 70/195cm
-
 __Stole__ - 24"/76" or 60/190cm
-
 __Big Scarf__ - 18"/72" or 45/180cm
-
 __Scarf__ - 12"/60" or 30/150cm) 
