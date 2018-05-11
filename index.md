@@ -3,49 +3,6 @@ title: Welcome to Tuladhar Export Trade
 layout: default
 ---
 
-# {{page.title}}
-
-<!-- Page Sub Menu
-============================================= -->
-<div id="page-menu">
-
-<div id="page-menu-wrap">
-
-<div class="container clearfix">
-
-<div class="menu-title">Products<span>Explorer</span></div>
-
-<nav>
-    <ul>
-        <li class="current"><a href="#"><div>100% Pashmina</div></a>
-             <ul>
-                <li><a href="#"><div>100% Single Ply Pashmina</div></a></li>
-                <li><a href="#"><div>100% Double Ply Pashmina</div></a></li>
-            </ul>
-        </li>
-        <li><a href="#"><div>Silk Pashmina</div></a></li>
-        <li><a href="#"><div>Soft Raw Silk</div></a></li>
-        <li><a href="#"><div>Print Pashmina</div></a>
-            <ul>
-                <li><a href="#"><div>Expert Reviews</div></a></li>
-                <li><a href="#"><div>User Reviews</div></a></li>
-            </ul>
-        </li>
-        <li><a href="#"><div>Sweaters</div></a></li>
-        <li><a href="#"><div>Build</div></a></li>
-        <li><a href="#"><div>Order</div></a></li>
-    </ul>
-</nav>
-
-<div id="page-submenu-trigger"><i class="icon-reorder"></i></div>
-
-</div>
-
-</div>
-
-</div><!-- #page-menu end -->
-
-
 ## Introduction
 Nepalese Handloom silk is a manufacturer, exporter and retailer since 1985. Our showroom is at Thamel tourist hub center. The shawls we manufacture are a product of quality consciousness and dedicated workmanship. We employ mostly experienced women for this very intricate art of hand-skill, together with our profound supervision in every step of processing. We are committed to provide full satisfaction to our customers.
 
