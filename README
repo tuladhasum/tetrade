@@ -1,7 +1,9 @@
 https://learn.cloudcannon.com/jekyll-cheat-sheet/
 
-git subtree push --prefix _site/ origin gh-pages
 
+http://www.damian.oquanta.info/posts/one-line-deployment-of-your-site-to-gh-pages.html
+
+## Deploy to the site
 
 ```
 git checkout master # you can avoid this line if you are in master...
