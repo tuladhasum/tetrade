@@ -3,6 +3,7 @@ title: Welcome to Tuladhar Export Trade
 layout: default
 ---
 
+
 ## Introduction
 Nepalese Handloom silk is a manufacturer, exporter and retailer since 1985. Our showroom is at Thamel tourist hub center. The shawls we manufacture are a product of quality consciousness and dedicated workmanship. We employ mostly experienced women for this very intricate art of hand-skill, together with our profound supervision in every step of processing. We are committed to provide full satisfaction to our customers.
 
@@ -26,6 +27,45 @@ Generally, Pashmina is woven on a wrap of silk that adds strength and shine. Sil
 > Member of Handicraft Association of Nepal
 
 ---
+
+<section id="slider" class="slider-element boxed-slider">
+
+<div class="container clearfix">
+
+<div class="fslider" data-animation="fade" data-thumbs="true" data-arrows="false" data-speed="1200" data-pause="7000">
+    <div class="flexslider">
+        <div class="slider-wrap">
+            <div class="slide" data-thumb="images/Mix/2.jpg">
+                <a href="#">
+                    <img src="images/Mix/2.jpg" alt="Slide 2">
+                    <div class="flex-caption slider-caption-bg">Responsive Ready Design</div>
+                </a>
+            </div>
+            <div class="slide" data-thumb="images/Mix/3.jpg">
+                <a href="#">
+                    <img src="images/Mix/3.jpg" alt="Slide 3">
+                    <div class="flex-caption slider-caption-bg slider-caption-bg-light slider-caption-top-left">Retina Graphics Display</div>
+                </a>
+            </div>
+            <!-- <div class="slide" data-thumb="images/Mix/4.jpg">
+                <a href="#">
+                    <img src="images/Mix/4.jpg" alt="Slide 4">
+                    <div class="flex-caption slider-caption-bg slider-caption-top-right">Bootstrap 3+ Compatible</div>
+                </a>
+            </div>
+            <div class="slide" data-thumb="images/Mix/5.jpg">
+                <a href="#">
+                    <img src="images/Mix/5.jpg" alt="Slide 5">
+                    <div class="flex-caption slider-caption-bg slider-caption-bg-light slider-caption-bottom-right">eCommerce Design Included</div>
+                </a>
+            </div> -->
+        </div>
+    </div>
+</div>
+
+</div>
+
+</section>
 
 ## Image Library
 <!-- ![Image 1](http://www.tetrade.com.np/images/pash14.jpg)

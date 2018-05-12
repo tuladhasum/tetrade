@@ -1,1 +1,3 @@
 https://learn.cloudcannon.com/jekyll-cheat-sheet/
+
+git subtree push --prefix site/ origin gh-pages
