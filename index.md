@@ -21,6 +21,8 @@ At present we manufacture the shawls up to 50 inches (125 cm.) width for more th
 
 Generally, Pashmina is woven on a wrap of silk that adds strength and shine. Silk and Pashmina can be combined in any proportion, however, 80% Pashmina and 20% silk are regarded the ideal combination for strength and shine. 100% Pashmina items are also preferred by many. 
 
+{% include gallery/process.html %}
+
 ---
 > Manufacturer & Exporter of Silk, Pashmina Shawl, Stole, Scarf etc.
 
@@ -28,44 +30,6 @@ Generally, Pashmina is woven on a wrap of silk that adds strength and shine. Sil
 
 ---
 
-<section id="slider" class="slider-element boxed-slider">
-
-<div class="container clearfix">
-
-<div class="fslider" data-animation="fade" data-thumbs="true" data-arrows="false" data-speed="1200" data-pause="7000">
-    <div class="flexslider">
-        <div class="slider-wrap">
-            <div class="slide" data-thumb="images/Mix/2.jpg">
-                <a href="#">
-                    <img src="images/Mix/2.jpg" alt="Slide 2">
-                    <div class="flex-caption slider-caption-bg">Responsive Ready Design</div>
-                </a>
-            </div>
-            <div class="slide" data-thumb="images/Mix/3.jpg">
-                <a href="#">
-                    <img src="images/Mix/3.jpg" alt="Slide 3">
-                    <div class="flex-caption slider-caption-bg slider-caption-bg-light slider-caption-top-left">Retina Graphics Display</div>
-                </a>
-            </div>
-            <!-- <div class="slide" data-thumb="images/Mix/4.jpg">
-                <a href="#">
-                    <img src="images/Mix/4.jpg" alt="Slide 4">
-                    <div class="flex-caption slider-caption-bg slider-caption-top-right">Bootstrap 3+ Compatible</div>
-                </a>
-            </div>
-            <div class="slide" data-thumb="images/Mix/5.jpg">
-                <a href="#">
-                    <img src="images/Mix/5.jpg" alt="Slide 5">
-                    <div class="flex-caption slider-caption-bg slider-caption-bg-light slider-caption-bottom-right">eCommerce Design Included</div>
-                </a>
-            </div> -->
-        </div>
-    </div>
-</div>
-
-</div>
-
-</section>
 
 ## Image Library
 <!-- ![Image 1](http://www.tetrade.com.np/images/pash14.jpg)

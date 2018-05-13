@@ -1,0 +1,21 @@
+<section id="slider" class="slider-element boxed-slider">
+    <div class="container clearfix">
+    
+        <div class="fslider" data-animation="fade" data-thumbs="true" data-arrows="false" data-speed="1200" data-pause="7000">
+            <div class="flexslider">
+                <div class="slider-wrap">
+
+                    {% for slide in site.data.pashmina_process %}
+                    <div class="slide" data-thumb="images/Pashmina_Process/{{slide.img_name}}">
+                        <a href="#">
+                            <img src="images/Pashmina_Process/{{slide.img_name}}" alt="Slide 2">
+                            <div class="flex-caption slider-caption-bg">{{slide.description}}</div>
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    
+    </div>        
+</section>
