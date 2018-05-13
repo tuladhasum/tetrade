@@ -3,6 +3,15 @@ title: Welcome to Tuladhar Export Trade
 layout: default
 ---
 
+<div class="nomargin masonry-thumbs grid-4" data-lightbox="gallery">
+    <a href="images/site/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/site/1.jpg" alt="Gallery Thumb 1"></a>
+    <a href="images/site/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/site/2.jpg" alt="Gallery Thumb 2"></a>
+    <a href="images/site/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/site/3.jpg" alt="Gallery Thumb 3"></a>
+    <a href="images/site/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/site/4.jpg" alt="Gallery Thumb 4"></a>
+</div>
+<div class="clear"></div>
+
+
 <div class="fancy-title title-dotted-border title-center">
     <h1><span>Showroom -</span> Nepalese Handloom Silk</h1>
 </div>
