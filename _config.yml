@@ -1,1 +1,2 @@
 name: Tuladhar Export Trade Website
+exclude: ["node_modules","README","package.json"]
