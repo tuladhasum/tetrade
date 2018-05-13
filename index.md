@@ -3,8 +3,10 @@ title: Welcome to Tuladhar Export Trade
 layout: default
 ---
 
+<div class="fancy-title title-dotted-border title-center">
+    <h1><span>Showroom -</span> Nepalese Handloom Silk</h1>
+</div>
 
-## Introduction
 Nepalese Handloom silk is a manufacturer, exporter and retailer since 1985. Our showroom is at Thamel tourist hub center. The shawls we manufacture are a product of quality consciousness and dedicated workmanship. We employ mostly experienced women for this very intricate art of hand-skill, together with our profound supervision in every step of processing. We are committed to provide full satisfaction to our customers.
 
 You will find our products irresistible whether for personal use or for business purpose. It makes a perfect gift for someone you really care for. We have the experience of 21 Years in this field.
@@ -30,12 +32,4 @@ Generally, Pashmina is woven on a wrap of silk that adds strength and shine. Sil
 
 ---
 
-
-## Image Library
-<!-- ![Image 1](http://www.tetrade.com.np/images/pash14.jpg)
-![Baby Pashmina](http://www.tetrade.com.np/images/baby-pashmina.png)
-![Our Showroom](http://www.tetrade.com.np/images/shop.jpg)
-![Our Showroom 2](http://www.tetrade.com.np/images/shop2.jpg)
-![Image 2](http://www.tetrade.com.np/images/shop3.jpg)
-![Image 3](http://www.tetrade.com.np/images/shop4.jpg) -->
 
