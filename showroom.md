@@ -1,6 +1,7 @@
 ---
 title: Our Showroom
 layout: default
+permalink: /showroom
 ---
 
 # Our Showroom
