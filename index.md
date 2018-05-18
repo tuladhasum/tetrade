@@ -1,5 +1,5 @@
 ---
-title: Welcome to Tuladhar Export Trade
+title: Nepalease Handloom Silk | Handmade Pashmina & Soft Raw Silk
 layout: default
 ---
 
@@ -18,7 +18,7 @@ layout: default
 
 Nepalese Handloom silk is a manufacturer, exporter and retailer since 1985. Our showroom is at Thamel tourist hub center. The shawls we manufacture are a product of quality consciousness and dedicated workmanship. We employ mostly experienced women for this very intricate art of hand-skill, together with our profound supervision in every step of processing. We are committed to provide full satisfaction to our customers.
 
-You will find our products irresistible whether for personal use or for business purpose. It makes a perfect gift for someone you really care for. We have the experience of 21 Years in this field.
+You will find our products irresistible whether for personal use or for business purpose. It makes a perfect gift for someone you really care for. We have the experience of over 30 years in this field.
 
 ## Pashmina Introduction
 Pashmina is derived from the finest wool of high mountain Capra Hircus goats. The wool is collected from the goats, once a year, without being harmed the goats in the process of shedding the wool. "Pasham"- the fPashmina Shawlfinest wool known as Pashmina, lies at the bottom of course wool, comes about 5% of total wool shed from the live goats. It is the softest wool found in the living being of high snowy Himalayas. The main properties of Pashmina are it’s exotically super warmth, shine and silky texture.
