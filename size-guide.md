@@ -1,6 +1,7 @@
 ---
 title: Size guide
 layout: default
+permalink: size-guide
 ---
 
 # Size Guide

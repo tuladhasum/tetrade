@@ -1,6 +1,7 @@
 ---
-title: Gallery
+title: Product
 layout: default
+permalink: product
 ---
 
 # Product

@@ -1,6 +1,7 @@
 ---
 title: Search Results
 layout: default
+permalink: search
 ---
 
 # Search
