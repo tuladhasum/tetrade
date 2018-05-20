@@ -1,6 +1,8 @@
 ---
 title: Nepalease Handloom Silk | Handmade Pashmina & Soft Raw Silk
 layout: default
+keywords: [silk pashmina, silk, pashmina, shawl, pashmina shawl, handloom, baby pashmina, 100 cashmere, nepal cashmere, pure pashmina, soft raw silk, thamel, kathmandu, nepal, showroom, quality, hand made pashmina, special gift, gift, Mountain goat, stole, wrap, blanket, tie, poncho, silk shirt, print pashmina, embriodery pashmina, cashmere sweaters]
+description: Nepalese Handloom silk is a manufacturer, exporter and retailer of Genuine Handmade Pashmina ans Soft Raw Silk fabrics since 1985. Our showroom is at Thamel tourist hub center. 
 ---
 
 <div class="nomargin masonry-thumbs grid-4" data-lightbox="gallery">
@@ -21,7 +23,7 @@ Nepalese Handloom silk is a manufacturer, exporter and retailer since 1985. Our 
 You will find our products irresistible whether for personal use or for business purpose. It makes a perfect gift for someone you really care for. We have the experience of over 30 years in this field.
 
 ## Pashmina Introduction
-Pashmina is derived from the finest wool of high mountain Capra Hircus goats. The wool is collected from the goats, once a year, without being harmed the goats in the process of shedding the wool. "Pasham"- the fPashmina Shawlfinest wool known as Pashmina, lies at the bottom of course wool, comes about 5% of total wool shed from the live goats. It is the softest wool found in the living being of high snowy Himalayas. The main properties of Pashmina are it’s exotically super warmth, shine and silky texture.
+Pashmina is derived from the finest wool of high mountain Capra Hircus goats. The wool is collected from the goats, once a year, without being harmed the goats in the process of shedding the wool. "Pasham"- the Pashmina Shawl finest wool known as Pashmina, lies at the bottom of course wool, comes about 5% of total wool shed from the live goats. It is the softest wool found in the living being of high snowy Himalayas. The main properties of Pashmina are it’s exotically super warmth, shine and silky texture.
 
 There is a difference between Cashmere wool and Pashmina, as the former has normally 16-18 microns thick, whereas the thickness of Pashmina hair is only 12-14 microns. This makes a lot of difference in softness and warmthness. 
 
