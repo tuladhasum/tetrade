@@ -2,7 +2,8 @@
 title: Baby Pashmina
 layout: default
 keywords: [baby pashmina, baby, pashmina]
-description: Baby Pashmina is the finest Pashmina made from the inner portion of neck wool of high mountain goats. The raw wool is refined by hand with a small tool, that gives a very small quantity of Pashmina.  
+description: Baby Pashmina is the finest Pashmina made from the inner portion of neck wool of high mountain goats. The raw wool is refined by hand with a small tool, that gives a very small quantity of Pashmina. 
+permalink: baby-pashmina
 ---
 
 # Baby Pashmina
