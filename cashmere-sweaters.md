@@ -1,7 +1,7 @@
 ---
 Title: Cashmere Sweaters
 layout: default
-permalink: cashmere-sweaters
+permalink: Cashmere-Sweaters
 ---
 
 # Cashmere Sweaters

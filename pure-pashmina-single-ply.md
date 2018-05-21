@@ -1,7 +1,7 @@
 ---
 title: Pure Pashmina Single Ply
 layout: default
-permalink: pure-pashmina-single-ply
+permalink: Pure-Pashmina-Single-Ply
 ---
 
 ## 100% Pashmnina Single Ply

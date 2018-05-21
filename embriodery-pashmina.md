@@ -1,7 +1,7 @@
 ---
 title: Embriodery Pashmina
 layout: default
-permalink: embriodery-pashmina
+permalink: Embriodery-Pashmina
 ---
 
 # Embriodery Pashmina

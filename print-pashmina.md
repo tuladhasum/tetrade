@@ -1,7 +1,7 @@
 ---
 title: Print Pashmina
 layout: default
-permalink: print-pashmina
+permalink: Print-Pashmina
 ---
 
 # Print Pashmina
