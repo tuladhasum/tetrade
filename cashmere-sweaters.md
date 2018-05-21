@@ -1,5 +1,5 @@
 ---
-Title: Cashmere Sweaters
+title: Cashmere Sweaters
 layout: default
 permalink: Cashmere-Sweaters
 ---

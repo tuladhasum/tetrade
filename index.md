@@ -44,3 +44,16 @@ Generally, Pashmina is woven on a wrap of silk that adds strength and shine. Sil
 ---
 
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://www.tetrade.com.np",
+  "name": "Tuladhar Export Trade",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+977-9851020571",
+    "contactType": "Showroom"
+  }
+}
+</script>
