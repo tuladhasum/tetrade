@@ -7,7 +7,7 @@
     "subtree": "git subtree split --prefix _site -b gh-pages ",
     "subtree-2": "git push -f origin gh-pages:gh-pages ",
     "subtree-3" : "git branch -D gh-pages",
-    "start": "jekyll serve"
+    "start": "jekyll serve --host=0.0.0.0"
   },
   "repository": {
     "type": "git",
