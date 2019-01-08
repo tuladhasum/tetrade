@@ -22,9 +22,10 @@ Nepalese Handloom silk is a manufacturer, exporter and retailer since 1985. Our 
 
 You will find our products irresistible whether for personal use or for business purpose. It makes a perfect gift for someone you really care for. We have the experience of over 30 years in this field.
 
-* Manufacturer & Exporter of Silk, Pashmina Shawl, Stole, Scarf etc.
-* Member of Handicraft Association of Nepal
+{% include products-01.html %}
 
+<!-- * Manufacturer & Exporter of Silk, Pashmina Shawl, Stole, Scarf etc.
+* Member of Handicraft Association of Nepal -->
 
 
 <script type="application/ld+json">
