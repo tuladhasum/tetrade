@@ -1,18 +1,11 @@
 ---
 title: Vajra Pashmina | Nepalese Handloom Silk 
-layout: default
+layout: index-layout
 keywords: [silk pashmina, silk, pashmina, shawl, pashmina shawl, handloom, baby pashmina, 100 cashmere, nepal cashmere, pure pashmina, soft raw silk, thamel, kathmandu, nepal, showroom, quality, hand made pashmina, special gift, gift, Mountain goat, stole, wrap, blanket, tie, poncho, silk shirt, print pashmina, embriodery pashmina, cashmere sweaters, tuladhar, export, trade, kathmandu, nepal, nepalese, nepalese handloom silk, tuladhar export trade]
 description: Nepalese Handloom silk is a manufacturer, exporter and retailer of Genuine Handmade Pashmina and Soft Raw Silk fabrics since 1985. Our showroom is at Thamel tourist hub center in Kathmandu, Nepal. 
 ---
 
-<div class="nomargin masonry-thumbs grid-4" data-lightbox="gallery">
-    <a href="images/site/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/site/1.jpg" alt="Gallery Thumb 1"></a>
-    <a href="images/site/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/site/2.jpg" alt="Gallery Thumb 2"></a>
-    <a href="images/site/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/site/3.jpg" alt="Gallery Thumb 3"></a>
-    <a href="images/site/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/site/4.jpg" alt="Gallery Thumb 4"></a>
-</div>
-<div class="clear"></div>
-<div class="line"></div>
+{% include _index-slider.html %}
 
 <div class="heading-block center">
   <h2>Showroom</h2>

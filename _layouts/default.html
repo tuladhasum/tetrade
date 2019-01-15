@@ -28,6 +28,21 @@
 		{% include header.html %}
 		{% include submenu.html %}
 
+<!-- Page Title
+		============================================= -->
+<section id="page-title">
+
+	<div class="container clearfix">
+		<h1>{{page.title}}</h1>
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item"><a href="/">Home</a></li>
+			<li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
+		</ol>
+	</div>
+
+</section>
+<!-- #page-title end -->
+
 		<!-- Content
 		============================================= -->
 		<section id="content">
