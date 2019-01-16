@@ -8,8 +8,8 @@ img_dir: /images/Silk_Shirt
 images:
   - Silk_Shirt_00.jpg
   - Silk_Shirt_01.jpg
-  - Silk_Shirt_02.jpg
-  - Silk_Shirt_03.jpg
+  - SIlk_Shirt_02.jpg
+  - SIlk_Shirt_03.jpg
   - Silk_Shirt_04.jpg
 
 ---
