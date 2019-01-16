@@ -9,6 +9,8 @@ images:
   - Silk_Tie_1.jpg
   - Silk_Tie_2.jpg
   - Silk_Tie_3.jpg
+  - Silk_Tie_4.jpg
+  - Silk_Tie_5.jpg
 
 ---
 Original Silk Tie
