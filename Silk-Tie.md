@@ -6,11 +6,11 @@ keywords: [soft raw silk tie, soft, raw, silk, tie, kathmandu, nepal, nepalese, 
 description: Soft Raw Silk tie
 img_dir: /images/Silk_Tie
 images:
-  - Silk_Tie_1.jpg
-  - Silk_Tie_2.jpg
-  - Silk_Tie_3.jpg
-  - Silk_Tie_4.jpg
-  - Silk_Tie_5.jpg
+  - Silk_Tie_01.jpg
+  - Silk_Tie_02.jpg
+  - Silk_Tie_03.jpg
+  - Silk_Tie_04.jpg
+  - Silk_Tie_05.jpg
 
 ---
 Original Silk Tie
