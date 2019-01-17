@@ -1,5 +1,5 @@
 ---
-title: Digital Print
+title: Digital Print Pashmina
 layout: product-layout
 permalink: digital-print-pashmina
 keywords: [soft raw silk tie, soft, raw, silk, tie, kathmandu, nepal, nepalese, handloom, thamel, digital print pashmina, cashmere]
