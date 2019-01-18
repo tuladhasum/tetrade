@@ -4,8 +4,6 @@ layout: default
 permalink: testimonials
 ---
 
-# Testimonials
-
 <ul class="testimonials-grid clearfix">
 {% for slide in site.data.testimonials.data %}
   <li style="height: 147px;">
