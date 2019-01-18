@@ -7,6 +7,8 @@ description: Silk pashmina weaved in Jacquard design
 img_dir: /images/jacquard
 images:
   - jacquard_1.jpg
+  - jacquard_10.jpg
+  - jacquard_11.jpg
   - jacquard_2.jpg
   - jacquard_3.jpg
   - jacquard_4.jpg
@@ -14,6 +16,7 @@ images:
   - jacquard_6.jpg
   - jacquard_7.jpg
   - jacquard_8.jpg
+  - jacquard_9.jpg
 
 ---
 Jacquard Pashmina

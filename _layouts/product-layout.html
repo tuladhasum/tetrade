@@ -67,18 +67,22 @@
       <div class="product-image">
         <div class="fslider" data-pagi="false" data-arrows="false" data-thumbs="true">
           <div class="flexslider">
-
-            <div class="flex-viewport" style="overflow: hidden; position: relative; ">
-              <div class="slider-wrap" data-lightbox="gallery" style="width: 1000%; transition-duration: 0.6s; transform: translate3d(-857.25px, 0px, 0px);">
+            <div class="slider-wrap" data-lightbox="gallery">
 {% for slide in page.images %}
-                <div class="slide" data-thumb="{{page.img_dir}}/{{slide}}" 
-                  data-thumb-alt=""><a href="{{page.img_dir}}/{{slide}}" title="{{page.title}}"
-                    data-lightbox="gallery-item"><img src="{{page.img_dir}}/{{slide}}" alt="{{page.title}}" draggable="false"></a></div>
+                <div class="slide" 
+                  data-thumb="{{page.img_dir}}/{{slide}}" 
+                  data-thumb-alt="">
+                  <a href="{{page.img_dir}}/{{slide}}" 
+                  title="{{page.title}}" 
+                  data-lightbox="gallery-item">
+                    <img src="{{page.img_dir}}/{{slide}}" 
+                    alt="{{page.title}}" 
+                    draggable="false"></a></div>
 {% endfor %}
               </div>
-            </div>
           </div>
         </div>
+      <div class="sale-flash">{{page.title}}</div>
       </div><!-- Product Single - Gallery End -->
 
     </div>
@@ -91,16 +95,21 @@
       <!-- Product Single - Short Description
 								============================================= -->
       {{content}}
-      <ul class="iconlist">
+      <!-- <ul class="iconlist">
         <li><i class="icon-caret-right"></i> <a href="/color-chart">Dynamic Color Options Available</a></li>
         <li><i class="icon-caret-right"></i> <a href="/size-guide">Lots of Size Options</a></li>
-      </ul><!-- Product Single - Short Description End -->
+      </ul> -->
+      <!-- Product Single - Short Description End -->
 
       <!-- Product Single - Meta
 								============================================= -->
       <div class="card product-meta">
         <div class="card-body">
-          <span itemprop="productID" class="sku_wrapper">SKU: <span class="sku">8465415</span></span>
+          <!-- <span itemprop="productID" class="sku_wrapper">SKU: <span class="sku">8465415</span></span> -->
+        <ul class="iconlist nobottommargin">
+          <li><i class="icon-caret-right"></i> <a href="/color-chart">Dynamic Color Options Available</a></li>
+          <li><i class="icon-caret-right"></i> <a href="/size-guide">Lots of Size Options</a></li>
+        </ul>
           <!-- <span class="posted_in">Category: <a href="#" rel="tag">Dress</a>.</span>
           <span class="tagged_as">Tags: <a href="#" rel="tag">Pink</a>, <a href="#" rel="tag">Short</a>, <a href="#"
               rel="tag">Dress</a>, <a href="#" rel="tag">Printed</a>.</span> -->
