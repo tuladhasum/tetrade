@@ -65,13 +65,17 @@
       <!-- Product Single - Gallery
 								============================================= -->
       <div class="product-image">
-        <div class="fslider" data-pagi="false" data-arrows="false" data-thumbs="true">
+        <div class="fslider" 
+              data-pagi="false" 
+              data-arrows="true" 
+              data-thumbs="true"
+              data-slideshow="true" >
           <div class="flexslider">
             <div class="slider-wrap" data-lightbox="gallery">
 {% for slide in page.images %}
                 <div class="slide" 
                   data-thumb="{{page.img_dir}}/{{slide}}" 
-                  data-thumb-alt="">
+                  data-thumb-alt="" >
                   <a href="{{page.img_dir}}/{{slide}}" 
                   title="{{page.title}}" 
                   data-lightbox="gallery-item">
