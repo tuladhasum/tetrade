@@ -5,8 +5,9 @@ keywords: [silk pashmina, silk, pashmina, shawl, pashmina shawl, handloom, baby 
 description: Nepalese Handloom silk is a manufacturer, exporter and retailer of Genuine Handmade Pashmina and Soft Raw Silk fabrics since 1985. Our showroom is at Thamel tourist hub center in Kathmandu, Nepal. 
 ---
 
-{% include _index-slider.html %}
 
+{% include products-01.html %}
+{% include _index-slider.html %}
 <div class="heading-block center">
   <h2>Showroom</h2>
 </div>
@@ -24,7 +25,7 @@ description: Nepalese Handloom silk is a manufacturer, exporter and retailer of 
   </div>
     
 
-  <p>Nepalese Handloom silk is a manufacturer, exporter and retailer since 1985. Our showroom is at Thamel tourist hub center. The shawls we manufacture are a product of quality consciousness and dedicated workmanship. We employ mostly experienced women for this very intricate art of hand-skill, together with our profound supervision in every step of processing. We are committed to provide full satisfaction to our customers.</p>
+  <p><span class="dropcap">N</span>epalese Handloom silk is a manufacturer, exporter and retailer since 1985. Our showroom is at Thamel tourist hub center. The shawls we manufacture are a product of quality consciousness and dedicated workmanship. We employ mostly experienced women for this very intricate art of hand-skill, together with our profound supervision in every step of processing. We are committed to provide full satisfaction to our customers.</p>
 
   <p>You will find our products irresistible whether for personal use or for business purpose. It makes a perfect gift for someone you really care for. We have the experience of over 30 years in this field.</p>
 
@@ -38,8 +39,6 @@ description: Nepalese Handloom silk is a manufacturer, exporter and retailer of 
 
 </div>
 
-
-{% include products-01.html %}
 
 <!-- * Manufacturer & Exporter of Silk, Pashmina Shawl, Stole, Scarf etc.
 * Member of Handicraft Association of Nepal -->

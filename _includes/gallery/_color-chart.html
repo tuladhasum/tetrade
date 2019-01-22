@@ -1,15 +1,25 @@
+
+<div class=" masonry-thumbs grid-2" data-lightbox="gallery">
 {% for slide in site.data.color_chart %}
-<article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 0px; top: 0px;">
+  <a href="images/Color_Chart/{{slide.img_name}}" data-lightbox="gallery-item" title="{{slide.description}}">
+<img class="bottommargin-sm border-color" src="images/Color_Chart/{{slide.img_name}}" alt="{{slide.description}}">
+<div class="overlay">
+  <div class="overlay-wrap"><i class="icon-line-zoom-in"></i></div>
+</div>
+  </a>
+{% endfor %}
+ </div>
+
+<!-- <article class="portfolio-item pf-media pf-icons" style="position: absolute; left: 0px; top: 0px;">
   <div class="portfolio-image">
     <a href="portfolio-single.html">
-<img src="images/Color_Chart/{{slide.img_name}}" alt="{{slide.description}}">
-    </a>
-    <div class="portfolio-overlay">
-<a href="images/Color_Chart/{{slide.img_name}}" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+  <img src="images/Color_Chart/{{slide.img_name}}" alt="{{slide.description}}">
+      </a>
+      <div class="portfolio-overlay">
+  <a href="images/Color_Chart/{{slide.img_name}}" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+      </div>
     </div>
-  </div>
-  <div class="portfolio-desc">
-<h3><a href="images/Color_Chart/{{slide.img_name}}" class="left-icon" data-lightbox="image">{{slide.description}}</a></h3>
-  </div>
-</article>
-{% endfor %}
+    <div class="portfolio-desc">
+  <h3><a href="images/Color_Chart/{{slide.img_name}}" class="left-icon" data-lightbox="image">{{slide.description}}</a></h3>
+    </div>
+</article> -->
