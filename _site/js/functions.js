@@ -3496,7 +3496,7 @@ var SEMICOLON = SEMICOLON || {};
 			});
 			$('#page-submenu-trigger').click(function() {
 				$body.toggleClass('top-search-open', false);
-				$pagemenu.toggleClass("pagemenu-active");
+				// $pagemenu.toggleClass("pagemenu-active");
 				return false;
 			});
 			$pagemenu.find('nav').click(function(e){
