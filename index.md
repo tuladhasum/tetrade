@@ -6,8 +6,8 @@ description: Nepalese Handloom silk is a manufacturer, exporter and retailer of 
 ---
 
 
-{% include products-01.html %}
 {% include _index-slider.html %}
+{% include products-01.html %}
 <div class="heading-block center">
   <h2>Showroom</h2>
 </div>
