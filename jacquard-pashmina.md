@@ -8,6 +8,10 @@ img_dir: /images/jacquard
 images:
   - jacquard_2.jpg
   - jacquard_3.jpg
+  - jacquard_12.jpg
+  - jacquard_13.jpg
+  - jacquard_14.jpg
+  - jacquard_15.jpg
   - jacquard_4.jpg
   - jacquard_5.jpg
   - jacquard_6.jpg

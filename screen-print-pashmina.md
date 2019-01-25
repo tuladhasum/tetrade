@@ -6,6 +6,10 @@ keywords: [soft raw silk tie, soft, raw, silk, tie, kathmandu, nepal, nepalese, 
 description: Create a customized dress according to your needs with our soft raw silk materials
 img_dir: /images/screen_print
 images:
+  - screen_print_9.jpg
+  - screen_print_10.jpg
+  - screen_print_11.jpg
+  - screen_print_12.jpg
   - screen_print_8.jpg
   - screen_print_5.jpg
   - screen_print_7.jpg

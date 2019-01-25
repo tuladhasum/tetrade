@@ -1,10 +1,18 @@
 ---
 title: Soft Raw Silk
-layout: default
+layout: product-layout
 permalink: Soft-Raw-Silk
-keywords: [silk pashmina, silk, pashmina, shawl, pashmina shawl, handloom, baby pashmina, 100 cashmere, nepal cashmere, pure pashmina, soft raw silk, thamel, kathmandu, nepal, showroom, quality, hand made pashmina, special gift, gift, Mountain goat, stole, wrap, blanket, tie, poncho, silk shirt, print pashmina, embriodery pashmina, cashmere sweaters]
-description: Nepalese Handloom silk is a manufacturer, exporter and retailer of Genuine Handmade Pashmina and Soft Raw Silk fabrics since 1985. Our showroom is at Thamel tourist hub center in Kathmandu, Nepal. 
+keywords: [soft, raw, silk, pashmina]
+description: Nepalese Handloom silk has the best selection with different color choice of soft raw silk products in scarves, shawls, wraps and fabric
+img_dir: /images/Soft_Raw_Silk
+images:
+  - soft_raw_silk_5.jpg
+  - soft_raw_silk_1.jpg
+  - soft_raw_silk_7.jpg
+  - soft_raw_silk_8.jpg
+  # - soft_raw_silk_6.jpg
+  - soft_raw_silk_2.jpg
+  - soft_raw_silk_3.jpg
+  - soft_raw_silk_4.jpg
 ---
-
-# Soft Raw Silk
 
