@@ -1,4 +1,21 @@
 name: Tuladhar Export Trade Website
+url: https://tetrade.com.np/
 exclude: ["node_modules","README","package.json"]
-collection:
-  - products
+collections:
+  products:
+    permalink: "/:collection/:path/"
+    output: true
+  galleries:
+    permalink: "/:collection/:path/"
+    output: true
+defaults:
+- scope:
+    path: _products
+    type: products
+  values:
+    layout: product
+- scope:
+    path: _galleries
+    type: galleries
+  values:
+    layout: gallery

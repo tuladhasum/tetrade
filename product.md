@@ -3,9 +3,14 @@ title: Product
 layout: default
 permalink: product
 ---
+<!-- <h1>Site Products</h1>
 
-# Product
+{% for staff_member in site.staff_members %}
+<h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
+<p>{{ staff_member.content | markdownify }}</p>
+{% endfor %} -->
 
+<!-- 
 <div class="fslider flex-thumb-grid grid-6 bottommargin-sm" data-arrows="false" data-animation="fade" data-thumbs="true">
     <div class="flexslider">
         <div class="slider-wrap">
@@ -18,5 +23,5 @@ permalink: product
             <div class="slide" data-thumb="images/Silk_Pashmina/SilkPashmina-L-7.jpg"><img src="images/Silk_Pashmina/SilkPashmina-L-7.jpg" alt="Image"></div>
         </div>
     </div>
-</div>
+</div> -->
 
