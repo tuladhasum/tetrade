@@ -1,7 +1,7 @@
 ---
 title: Soft Raw Silk Tie
 layout: product-layout
-permalink: silk-tie1
+permalink: silk-tie
 keywords: [soft raw silk tie, soft, raw, silk, tie, kathmandu, nepal, nepalese, handloom, thamel]
 description: Soft Raw Silk tie
 img_dir: /images/Silk_Tie
