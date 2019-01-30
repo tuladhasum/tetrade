@@ -4,21 +4,51 @@ layout: default
 permalink: faq
 ---
 
-# FAQ
+<div id="section-faqs" class="heading-block title-center page-section">
+  <h2>Frequently Asked Questions</h2>
+  <span>We have answered a wide range of Questions for your Convenience</span>
+</div>
 
-## Pashmina Introduction
-Pashmina is derived from the finest wool of high mountain Capra Hircus goats. The wool is collected from the goats, once a year, without being harmed the goats in the process of shedding the wool. "Pasham"- the Pashmina Shawl finest wool known as Pashmina, lies at the bottom of course wool, comes about 5% of total wool shed from the live goats. It is the softest wool found in the living being of high snowy Himalayas. The main properties of Pashmina are it’s exotically super warmth, shine and silky texture.
+<div class="col_half nobottommargin">
 
-There is a difference between Cashmere wool and Pashmina, as the former has normally 16-18 microns thick, whereas the thickness of Pashmina hair is only 12-14 microns. This makes a lot of difference in softness and warmthness. 
+  <h4 id="faq-1"><strong>Q.</strong> How do I become an author?</h4>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, dolorum, vero ipsum molestiae minima odio quo voluptate illum excepturi quam cum voluptates doloribus quae nisi tempore necessitatibus dolores ducimus enim libero eaque explicabo suscipit animi at quaerat aliquid ex expedita perspiciatis? Saepe, aperiam, nam unde quas beatae vero vitae nulla.</p>
 
-{% include gallery/process.html %}
+  <div class="line"></div>
 
----
+  <h4 id="faq-2"><strong>Q.</strong> Helpful Resources for Authors</h4>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, placeat, architecto rem dolorem dignissimos repellat veritatis in et eos doloribus magnam aliquam ipsa alias assumenda officiis quasi sapiente suscipit veniam odio voluptatum. Enim at asperiores quod velit minima officia accusamus cumque eligendi consequuntur fuga? Maiores, quasi, voluptates, exercitationem fuga voluptatibus a repudiandae expedita omnis molestiae alias repellat perferendis dolores dolor.</p>
 
-## Process of making Pashmina
-The process of making Pashmina garments (products) involves a lot of hard work. The wool produced is carded by hand and spun into very fine yarn by traditional methods using a hand-spinner. Thereafter, it is hand-woven in traditional pit looms. It takes our craftsmen about nine to ten days (spinning to finish) to weave and finish a single shawl ready for the Show room.
+  <div class="line"></div>
 
-At present we manufacture the shawls up to 50 inches (125 cm.) width for more than 600 wide ranges of shades. Our end product can be embroidered, silk fringed or in plain design. The sizes and colors can be custom-made, provided they are in feasible quantities.
+  <h4 id="faq-3"><strong>Q.</strong> How much money can I make?</h4>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, fugiat iste nisi tempore nesciunt nemo fuga? Nesciunt, delectus laboriosam nisi repudiandae nam fuga saepe animi recusandae. Asperiores, provident, esse, doloremque, adipisci eaque alias dolore molestias assumenda quasi saepe nisi ab illo ex nesciunt nobis laboriosam iusto quia nulla ad voluptatibus iste beatae voluptas corrupti facilis accusamus recusandae sequi debitis reprehenderit quibusdam. Facilis eligendi a exercitationem nisi et placeat excepturi velit!</p>
 
-Generally, Pashmina is woven on a wrap of silk that adds strength and shine. Silk and Pashmina can be combined in any proportion, however, 80% Pashmina and 20% silk are regarded the ideal combination for strength and shine. 100% Pashmina items are also preferred by many. 
+  <div class="line"></div>
+
+  <h4 id="faq-5"><strong>Q.</strong> An Introduction to the Marketplaces for Authors</h4>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, quisquam atque vero delectus corrupti! Quo, maiores, dolorem, hic commodi nulla ratione accusamus doloribus fuga magnam id temporibus dignissimos deleniti quidem ipsam corporis sapiente nam expedita saepe quas ab? Vero, assumenda.</p>
+
+</div>
+
+<div class="col_half nobottommargin col_last">
+
+  <h4 id="faq-7"><strong>Q.</strong> What Images, Videos, Code or Music Can I Use in my Items?</h4>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad odio ab quis architecto recusandae doloremque incidunt! Eius, quidem, pariatur necessitatibus commodi aliquid deleniti repudiandae accusantium tempora soluta vel nesciunt est quibusdam iure adipisci aspernatur maiores saepe ea eaque quo harum reprehenderit similique nemo voluptate ullam natus illum magnam alias nobis doloremque delectus ipsa dicta repellat maxime dignissimos eveniet quae debitis ratione assumenda tempore officiis fugiat dolor. Saepe iusto praesentium ullam aliquam impedit.</p>
+
+  <div class="line"></div>
+
+  <h4 id="faq-8"><strong>Q.</strong> Can I use trademarked names in my items?</h4>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, nisi, laborum autem reprehenderit excepturi harum ipsum quod sit. Inventore et sunt nemo natus labore voluptate omnis reprehenderit culpa. Minus vitae molestiae totam ut a accusamus at fugiat nemo debitis delectus? Consectetur, deleniti, cupiditate ad doloribus numquam minus illum fugit laborum a voluptatum nulla at autem ab beatae odio dolorem assumenda magni laudantium saepe recusandae doloremque illo nesciunt aut quos debitis neque reiciendis veritatis iusto eos aliquid voluptatem pariatur eveniet velit?</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, esse, dolore, animi sed aliquam est consequatur atque magnam sunt voluptas nostrum sint minus neque iste ut velit iure eius! Hic, laudantium, consequatur veniam magnam ullam eveniet sed minus rem deleniti!</p>
+
+  <div class="line"></div>
+
+  <h4 id="faq-9"><strong>Q.</strong> Tips for Increasing Your Referral Income</h4>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, nisi, laborum autem reprehenderit excepturi harum ipsum quod sit. Inventore et sunt nemo natus labore voluptate omnis reprehenderit culpa. Minus vitae molestiae totam ut a accusamus at fugiat nemo debitis delectus? Consectetur, deleniti, cupiditate ad doloribus numquam minus illum fugit laborum a voluptatum nulla at autem ab beatae odio dolorem assumenda magni laudantium saepe recusandae doloremque illo nesciunt aut quos debitis neque reiciendis veritatis iusto eos aliquid voluptatem pariatur eveniet velit?</p>
+
+</div>
+
+<div class="clear"></div>
+
 
