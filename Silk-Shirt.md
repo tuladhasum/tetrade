@@ -6,11 +6,11 @@ keywords: [soft raw silk tie, soft, raw, silk, shirt, kathmandu, nepal, nepalese
 description: Soft Raw Silk Shirt
 img_dir: /images/Silk_Shirt
 images:
-  - Silk_Shirt_00.jpg
-  - Silk_Shirt_01.jpg
-  - SIlk_Shirt_02.jpg
-  - SIlk_Shirt_03.jpg
-  - Silk_Shirt_04.jpg
+  - silk_shirt_1.jpg
+  - silk_shirt_2.jpg
+  - silk_shirt_3.jpg
+  - silk_shirt_4.jpg
+  - silk_shirt_5.jpg
 
 ---
 Original Silk Shirt
