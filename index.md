@@ -15,7 +15,7 @@ description: Nepalese Handloom silk is a manufacturer, exporter and retailer of 
 <div class="container clearfix">
 
   <div class="col_two_fifth topmargin nobottommargin" style="min-height: 250px;">
-    <img data-animate="fadeIn" class=" fadeIn animated" src="images/showroom.jpg" alt="Nepalese Handloom Silk Showroom in Thamel">
+    <img data-animate="fadeIn" class=" fadeIn animated" src="images/showroom-new.jpg" alt="Nepalese Handloom Silk Showroom in Thamel">
   </div>
 
   <div class="col_three_fifth nobottommargin col_last">

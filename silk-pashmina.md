@@ -14,7 +14,7 @@ images:
   - silk_pashmina_6.jpg
 
 ---
-<span class="dropcap">S</span>ilk Pashmina Blend adds a perfect combination of smooth silk with the finest quality of Pashmina. This fabric is made with 80% of high-quality pashmina and 30% of smooth silk. The blend of silk gives the Pashmina a wonderful feeling of a smooth and shiny look.
+<span class="dropcap">S</span>ilk Pashmina Blend adds a perfect combination of smooth silk with the finest quality of Pashmina. This fabric is made with 80% of high-quality pashmina and 20% of smooth silk. The blend of silk gives the Pashmina a wonderful feeling of a smooth and shiny look.
 
 All of our following Silk Pashmina Product is available in following sizes and 3 different quality. Quality A, B & C.
 
